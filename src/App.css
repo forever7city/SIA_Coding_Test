@@ -1,0 +1,12 @@
+.ck.ck-editor__editable:not(.ck-editor__nested-editable) {
+  min-height: 500px;
+}
+
+App {
+  text-align: center;
+}
+
+.canvas {
+  border-radius: 15px;
+  background: lightgrey;
+}
